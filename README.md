@@ -1,3 +1,3 @@
 # Ionic-Lifeline-App
 
-Team Project
+Hackathon Team Project (that includes me)
